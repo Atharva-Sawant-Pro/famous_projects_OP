@@ -1,0 +1,83 @@
+.header{
+    width: 100%;
+    height: 70px;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+.important_notice{
+    width: 150%;
+    height: 55px;
+    font-size: 25px;
+    padding-right: 800px;
+}
+.encrypter{
+    height: 50px;
+    margin-left: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+.decrypter{
+    height: 50px;
+    margin-right: 100px;
+    width: 300px;
+    font-size: 25px;
+    float: right;
+}
+.secret_messenger{
+    height: 50px;
+    margin-left: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+.weight{
+    height: 50px;
+    margin-right: 100px;
+    width: 300px;
+    font-size: 25px;
+    float: right;
+}
+.moustache{
+    height: 50px;
+    margin-left: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+.dj{
+    height: 50px;
+    margin-right: 100px;
+    width: 300px;
+    font-size: 25px;
+    float: right;
+}
+.antarikshyaan{
+    height: 50px;
+    margin-left: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+.juno{
+    height: 50px;
+    margin-right: 100px;
+    width: 300px;
+    font-size: 25px;
+    float: right;
+}
+.colour{
+    height: 50px;
+    margin-left: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+.webrowser{
+    height: 50px;
+    margin-right: 100px;
+    width: 300px;
+    font-size: 25px;
+    float: right;
+}
+.tt{
+    height: 50px;
+    margin-left: 300px;
+    width: 900px;
+    font-size: 25px;
+}
